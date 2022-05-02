@@ -1,0 +1,16 @@
+Y:\Programming\PROG 201-02\CardGame\CardGame\bin\Debug\net5.0\CardGame.exe
+Y:\Programming\PROG 201-02\CardGame\CardGame\bin\Debug\net5.0\CardGame.deps.json
+Y:\Programming\PROG 201-02\CardGame\CardGame\bin\Debug\net5.0\CardGame.runtimeconfig.json
+Y:\Programming\PROG 201-02\CardGame\CardGame\bin\Debug\net5.0\CardGame.runtimeconfig.dev.json
+Y:\Programming\PROG 201-02\CardGame\CardGame\bin\Debug\net5.0\CardGame.dll
+Y:\Programming\PROG 201-02\CardGame\CardGame\bin\Debug\net5.0\ref\CardGame.dll
+Y:\Programming\PROG 201-02\CardGame\CardGame\bin\Debug\net5.0\CardGame.pdb
+Y:\Programming\PROG 201-02\CardGame\CardGame\obj\Debug\net5.0\CardGame.csproj.AssemblyReference.cache
+Y:\Programming\PROG 201-02\CardGame\CardGame\obj\Debug\net5.0\CardGame.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Programming\PROG 201-02\CardGame\CardGame\obj\Debug\net5.0\CardGame.AssemblyInfoInputs.cache
+Y:\Programming\PROG 201-02\CardGame\CardGame\obj\Debug\net5.0\CardGame.AssemblyInfo.cs
+Y:\Programming\PROG 201-02\CardGame\CardGame\obj\Debug\net5.0\CardGame.csproj.CoreCompileInputs.cache
+Y:\Programming\PROG 201-02\CardGame\CardGame\obj\Debug\net5.0\CardGame.dll
+Y:\Programming\PROG 201-02\CardGame\CardGame\obj\Debug\net5.0\ref\CardGame.dll
+Y:\Programming\PROG 201-02\CardGame\CardGame\obj\Debug\net5.0\CardGame.pdb
+Y:\Programming\PROG 201-02\CardGame\CardGame\obj\Debug\net5.0\CardGame.genruntimeconfig.cache
